@@ -55,7 +55,7 @@ I am driven by the desire to automate everything.
 I fell in love with modern development technologies: JS, Node.js, React, Next. 
 
 ### Contacts
-+375(29)814-40-41  
++375 (29) 814-40-41  
 plavinsky@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/anton-plavinsky-147ab41b/)
 
