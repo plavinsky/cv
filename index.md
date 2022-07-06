@@ -1,7 +1,6 @@
 ## Anton Plavinsky
 ### Full-stack JS developper, project manager
 
-
 <img src="https://media-exp2.licdn.com/dms/image/C4E03AQGDF88bmRiimA/profile-displayphoto-shrink_800_800/0/1655191599397?e=1662595200&v=beta&t=qcma0EMFXHS8Q-gA0UOPKSOMX21uThGeaI6EnfWzaQw" alt="drawing" width="200"/>
 
 ### Exprience
