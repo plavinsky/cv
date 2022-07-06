@@ -1,6 +1,7 @@
 ## Anton Plavinsky / Антон Плавинский
 ### Full-stack JS developper, project manager
 
+
 ### Exprience / Опыт
 **2019 - now**  
 Возобновил навыки разработки ПО, выучил современный JS и стал применять для собственных проектов.  
