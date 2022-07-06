@@ -21,8 +21,7 @@ Wrote an internal corporate application that implements the following tasks:
 ```Technology stack: TypeScript, Next.js, Redis, Postgres, Hasura+GraphQL```
 
 **2013 - now**  
-Развиваю собственный бизнес: интернет магазин строительной и садовой техники (voltra.by).  
-Навыки и обязанности:  
+Развиваю собственный бизнес: интернет магазин строительной и садовой техники (voltra.by). Навыки и обязанности:  
 - управление командами, организация
 - построение бизнес-процесовв
 - автоматизация и систематизация
