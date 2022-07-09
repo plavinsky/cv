@@ -51,7 +51,9 @@ Field: development of games and applications for social networks.
 ### Education / Образование
 **2008-2012**  
 Санкт-Петербургский государственный политехнический университет Петра Великого (СПбПУ)  
-Peter the Great St.Petersburg Polytechnic University
+Факультет технической кибернетики | Кафедра "Системы автоматического управлдения".  
+Peter the Great St.Petersburg Polytechnic University  
+Faculty of technical cybernetics | Department "Systems of automatic control"  
 
 ### Skills / Навыки
 JS, Node.js, React, Next
